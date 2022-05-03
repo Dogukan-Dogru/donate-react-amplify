@@ -34,19 +34,19 @@
   background-image: url('wswp.webp');
   background-position: center;
   background-size: cover;
-  color:#fff;
+  color:#ff960b;
 }
 
 .center {
   text-align: center;
   background-position: center;
   background-size: cover;
-  color: rgb(255, 255, 255);
+  color: #ff960b;
 }
 
 .donate-button {
   background-color: rgb(33,92,174);
-  color: white;
+  color: #ff960b;
   height: 40px;
   width: 100px;
   border-radius: 16px;
